@@ -27,7 +27,7 @@ Revenue ALL =
 ```
 
 and now some PowerQuery
-```
+
 let
     Source = srcFolder,
     Content = Source{2}[Content],
@@ -39,6 +39,6 @@ let
     #"Added Custom" = Table.AddColumn(#"Lowercased Text", "Salesperson Name", each [FirstName] & " "&[LastName], Text.Type)
 in
     #"Added Custom"
-```
+
 
 hoping that all worked, if so I'm ready to start blogging ?!
