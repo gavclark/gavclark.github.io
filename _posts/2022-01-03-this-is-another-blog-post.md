@@ -23,7 +23,7 @@ what about just pasting in the image ?
 
 now try some syntax highlighting (DAX first)
 
-```dax
+```DAX
 Revenue = SUM(Sales[SalesValue])
 ```
 
