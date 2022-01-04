@@ -2,11 +2,6 @@
 
 ## this is a heading 2 
 
-```sql
-select * from tablename
-where columnname = "some value"
-```
-
 this is just some general paragraph text
 
 > quoted block
