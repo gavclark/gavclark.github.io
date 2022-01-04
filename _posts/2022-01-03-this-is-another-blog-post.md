@@ -28,4 +28,4 @@ here's an image (I hope)
 
 and if that doesn't work, maybe this does:
 
-![PowerQuery Organised Folders](https://github.com/gavclark/gavclark.github.io/blob/d1a964acdd2975f0c7f7fba9bcba9b7646b13937/powerquery-folders-organised.png)
+![PowerQuery Organised Folders](https://photos.app.goo.gl/gmLA3zZoiWrCcZZh6)
