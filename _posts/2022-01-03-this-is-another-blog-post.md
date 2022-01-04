@@ -16,10 +16,6 @@ this is just some general paragraph text
 
 
 
-![event-logo-2022-01-10-melissa](C:\Users\gavcl\OneDrive\Community_Power_BI_Break\event-logo-2022-01-10-melissa.png)
-
-
-
 here's some more text
 
 here's an image (I hope)
