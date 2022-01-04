@@ -1,3 +1,6 @@
+---
+tags: ["DAX", "PowerQuery", "Power BI"]
+---
 # This is my blog post from typora
 
 ## this is a heading 2 
