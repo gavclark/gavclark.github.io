@@ -22,7 +22,7 @@ let
     #"Imported Excel" = Excel.Workbook(Content),
     rlsSalespeople_Sheet = #"Imported Excel"{[Item="rlsSalespeople",Kind="Sheet"]}[Data],
     #"Promoted Headers" = Table.PromoteHeaders(rlsSalespeople_Sheet, [PromoteAllScalars=true]),
-    #"Lowercased Text" = Table.TransformColumns(#"Changed Type",{{"EmployeeEmail", Text.Lower, type text}, {"ManagerEmail", Text.Lower, type text}}),
+    #"Lowercased Text" = Table.TransformColumns(#"Changed Type",{ {"EmployeeEmail", Text.Lower, type text}, {"ManagerEmail", Text.Lower, type text}}),
     #"Added Custom" = Table.AddColumn(#"Lowercased Text", "Salesperson Name", each [FirstName] & " "&[LastName], Text.Type)
 in
     #"Added Custom"
