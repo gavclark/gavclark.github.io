@@ -25,3 +25,8 @@ here's an image (I hope)
 and if that doesn't work, maybe this does:
 
 ![PowerQuery Organised Folders](https://photos.app.goo.gl/gmLA3zZoiWrCcZZh6)
+
+what about just pasting in the image ?
+
+
+![powerquery-folders-organised](https://user-images.githubusercontent.com/16735754/148005665-8ef61014-12a1-452f-9822-36e088174fe0.png)
