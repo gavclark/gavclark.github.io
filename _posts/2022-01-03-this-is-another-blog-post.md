@@ -23,13 +23,13 @@ what about just pasting in the image ?
 
 now try some syntax highlighting (DAX first)
 
-'''dax
+```dax
 Revenue = SUM(Sales[SalesValue])
-'''
+```
 
 and now some PowerQuery
 
-'''PowerQuery
+```PowerQuery
 let
     Source = srcFolder,
     Content = Source{2}[Content],
@@ -41,6 +41,6 @@ let
     #"Added Custom" = Table.AddColumn(#"Lowercased Text", "Salesperson Name", each [FirstName] & " "&[LastName], Text.Type)
 in
     #"Added Custom"
-'''
+```
 
 hoping that all worked, if so I'm ready to start blogging ?!
