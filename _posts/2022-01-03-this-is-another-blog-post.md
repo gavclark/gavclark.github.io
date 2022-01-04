@@ -18,7 +18,7 @@ what about just pasting in the image ?
 
 now try some syntax highlighting (DAX first)
 
-```
+```DAX
 Revenue ALL = 
   CALCULATE(
       [Revenue],
@@ -27,7 +27,7 @@ Revenue ALL =
 ```
 
 and now some PowerQuery
-```
+```PowerQuery
 let
     Source = srcFolder,
     Content = Source{2}[Content],
