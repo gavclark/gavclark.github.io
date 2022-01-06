@@ -35,6 +35,7 @@ in
 this seems to work so far
 
 what about an image ?
+
 ![powerquery-folders-organised](https://user-images.githubusercontent.com/16735754/148458554-b7693893-6652-4bd3-a3af-55ec6f1028c3.png)
 
 
