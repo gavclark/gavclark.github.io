@@ -18,7 +18,8 @@ Revenue ALL =
   )
 ```
 
-and here is some PowerQuery:
+and here is some PowerQuery, the excludes the raw stuff for jekyll:
+
 ```
 let
     Source = srcFolder,
