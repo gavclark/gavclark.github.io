@@ -1,4 +1,6 @@
 ---
+title: "This is the blog post title from frontmatter"
+excerpt: "This is a bit more detail about the blog post and why you should read it "
 tags: ["DAX", "PowerQuery", "Power BI"]
 ---
 # This is my blog post from typora
