@@ -21,7 +21,7 @@
 * Unordered List Item #3
 
 here is some DAX:
-```
+```dax
 Revenue ALL = 
   CALCULATE(
       [Revenue],
@@ -31,7 +31,7 @@ Revenue ALL =
 
 and here is some PowerQuery, the excludes the raw stuff for jekyll:
 
-```
+```powerquery
 let
     Source = srcFolder,
     Content = Source{2}[Content],
