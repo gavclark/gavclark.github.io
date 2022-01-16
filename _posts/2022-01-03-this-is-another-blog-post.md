@@ -21,16 +21,17 @@ what about just pasting in the image ?
 
 now try some syntax highlighting (DAX first)
 
-```DAX
+```dax
 Revenue ALL = 
   CALCULATE(
       [Revenue],
       ALL(Sales)
   )
 ```
+not sure why the prism highligting isn't working ? at least there's some basic stuff there
 
 and now some PowerQuery
-```PowerQuery
+```powerquery
 {% raw %}
 let
 
