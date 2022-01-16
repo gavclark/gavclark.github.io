@@ -3,6 +3,11 @@ hr {
   margin-bottom: 20px;
 }
 
+/* custom fonts to be used */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
