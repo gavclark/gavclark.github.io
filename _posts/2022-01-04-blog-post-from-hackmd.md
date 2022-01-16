@@ -8,10 +8,6 @@
 
 #### this is a heading 4
 
-##### this is a heading 5
-
-###### this is a heading 6
-
 > this is a commented block
 > which continues onto another line
 > well, I thought it would be on one line ?  I wonder if it's *possible* to make it a diferent colour ... **that** would be interesting
