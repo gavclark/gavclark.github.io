@@ -4,9 +4,9 @@
 
 Some DAX :
 
-'''
+```
 Sales YTD = TOTALYTD([Revenue])
-'''
+```
 
 *this should be in italic and **this in bold italic** and the rest in italic*
 
