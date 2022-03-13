@@ -1,4 +1,4 @@
-# This is the document title, I wonder how that will work?
+# This is the document and blog post title title - I wonder how that will work?
 
 
 # This is a title of a blog post which I edited in google docs and converted to markdown (this is in heading #1 by the way)
