@@ -25,10 +25,10 @@ this is an ordered list
 <!-- what is the difference between a quote a comment I wonder, this is actually a comment so it will be interesting to see how it comes out -->
 
 now try some images 
-![Folders Organised](https://drive.google.com/file/d/18oawf5u3SVc7pDzr7FUGdv4vUqyD-siQ/view?usp=sharing)
+![Folders Organised](https://photos.google.com/share/AF1QipM83TRKIe6I0ZjeT11bqwjwaTQV4zbikVCtdetoXqCqWLh6aprfV76yXDXVqg34HA/photo/AF1QipPRZCDY9x0D1JlPJOcEG-hFYmpmBFdZTOxMthU1?key=UFZIanhEMFY3YnhVeHlyQXdNZTNVMjNBaVRhSER3)
 
 and another one for good luck
-![Data Model Sample](https://drive.google.com/file/d/1Zju2O8TtSqGGPC8OXe5wvAf5C4GwSTjr/view?usp=sharing)
+![Data Model Sample](https://photos.google.com/share/AF1QipM83TRKIe6I0ZjeT11bqwjwaTQV4zbikVCtdetoXqCqWLh6aprfV76yXDXVqg34HA/photo/AF1QipP6gTjiocxC0Xm1gPCmvrwGvP1-6i6oEqkumq1R?key=UFZIanhEMFY3YnhVeHlyQXdNZTNVMjNBaVRhSER3)
 
 ```
 Revenue = SUM(FactSales[SalesAmount])
