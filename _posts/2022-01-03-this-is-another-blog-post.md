@@ -5,11 +5,18 @@ tags: ["DAX", "PowerQuery", "Power BI"]
 ---
 # This is my blog post from typora
 
+# Another heading 1
+
+# this is a heading 1
 ## this is a heading 2 
+### this is a heading 3
+#### This is a heading 4
+##### this is a heading 5
+###### this is a heading 6
 
 this is just some general paragraph text
 
-> quoted block
+> quoted block - really there should be some way that this quote line wraps when you have a lot to say but I am not 100% sure that is the way that it works. Maybe you need the right words to put in it ?
 
 1. ordered list #1
 2. ordered list #2
