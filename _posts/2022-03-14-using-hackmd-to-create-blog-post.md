@@ -45,6 +45,7 @@ CALCULATE(
 ```
 
 and will also try some PowerQuery:
+{% raw %}
 ```powerquery
 let
     Source = Csv.Document(File.Contents("C:\Users\gavcl\OneDrive\Power_BI_Data\PBI_Labs_SalesTransactionDatav2.csv"),[Delimiter=",", Columns=13, Encoding=1252, QuoteStyle=QuoteStyle.None]),
@@ -61,7 +62,7 @@ let
 in
     #"Removed Other Columns"
 ```
-
+{% endraw %}
 
 ### Step 2: Write something in Markdown
 
