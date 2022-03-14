@@ -1,10 +1,3 @@
----
-title: Post Title from FrontMatter
-excerpt: Excerpt from FrontMatter, but does it show up
-date: 14/03/2022
----
-
-
 # another blog post created in hackmd
 
 [ToC]
