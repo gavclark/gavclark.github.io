@@ -11,6 +11,8 @@
 
 interesting that you can get emoji's :pushpin: as well as ==highlighting some text too== it is seems really good :+1: 
 
+or for highlighting <mark>does this work better</mark>
+
 ###### tags: `Tag(PowerQuery)`
 
 > This note is yours, feel free to play around.  :video_game: 

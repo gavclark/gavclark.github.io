@@ -3,7 +3,7 @@ title: "This is the blog post title from frontmatter"
 excerpt: "This is a bit more detail about the blog post and why you should read it "
 tags: ["#gtbr", "Get the Basics Right", "Power BI", "PowerQuery"]
 ---
-# this is the blog post title which should be in heading number 1
+# this is the blog post from github native markdown editor
 
 # this is heading 1
 ## this is heading 2
